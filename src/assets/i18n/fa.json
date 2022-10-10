@@ -201,22 +201,22 @@
     },
     "GOOGLE": {
       "BANNER": {
-        "AUTH_FAIL": "GoogleApi: تأیید هویت انجام نشد ، لطفاً دوباره وارد سیستم شوید!"
+        "AUTH_FAIL": "گوگل ای‌پی‌آی: تأیید هویت انجام نشد ، لطفاً دوباره وارد سیستم شوید!"
       },
       "DIALOG": {
-        "CREATE_SYNC_FILE": "Google Drive: No file with the name <strong>\"{{fileName}}\"</strong> was found. <strong>Create</strong> it as sync file on Google Drive?",
-        "USE_EXISTING_SYNC_FILE": "Google Drive: Use <strong>existing</strong> file <strong>\"{{fileName}}\"</strong> as sync file? If not please change the Sync file name."
+        "CREATE_SYNC_FILE": "گوگل درایو: فایلی با نام <strong>\"{{fileName}}\"</strong>  پیدا نشد. برای یکپارچه‌سازی فایل در گوگل درایو آن را <strong>بسازید</strong>.",
+        "USE_EXISTING_SYNC_FILE": "گوگل درایو: آیا میخواهید از فایل <strong>موجود </strong>  <strong>\"{{fileName}}\"</strong> به‌عنوان فایل یکپارچه‌سازی استفاده کنید؟ در غیر این صورت لطفا نام فایل یکپارچه‌سازی را تغییر دهید."
       },
       "S": {
-        "MULTIPLE_SYNC_FILES_WITH_SAME_NAME": "Multiple files with the name \"{{newFileName}}\" found. Please delete all but one or choose a different name.",
-        "SYNC_FILE_CREATION_ERROR": "Google Drive: هنگام ایجاد پرونده همگام سازی خطایی رخ داد. {{err}}",
-        "UPDATED_SYNC_FILE_NAME": "Google Drive: نام فایل همگام سازی به روز شده است"
+        "MULTIPLE_SYNC_FILES_WITH_SAME_NAME": "چند فایل با نام  \"{{newFileName}}\"  پیدا شده است. لطفا همه آنها را بجز یکی از آنها حذف کنید و یا نام دیگری انتخاب کنید.",
+        "SYNC_FILE_CREATION_ERROR": "گوگل درایو: هنگام ایجاد پرونده همگام سازی خطایی رخ داد. {{err}}",
+        "UPDATED_SYNC_FILE_NAME": "گوگل درایو: نام فایل همگام سازی به روز شده است"
       },
       "S_API": {
-        "ERR": "خطای GoogleApi : {{errStr}}",
-        "ERR_NO_FILE_ID": "GoogleApi: آیدی فایل مشخص نشده است",
-        "ERR_NO_FILE_NAME": "GoogleApi: نام فایل مشخص نشده است",
-        "SUCCESS_LOGIN": "GoogleApi: ورود موفق به سیستم"
+        "ERR": "خطای گوگل‌ای‌پی‌آی : {{errStr}}",
+        "ERR_NO_FILE_ID": "گوگل‌ای‌پی‌آی: آیدی فایل مشخص نشده است",
+        "ERR_NO_FILE_NAME": "گوگل‌ای‌پی‌آی: نام فایل مشخص نشده است",
+        "SUCCESS_LOGIN": "گوگل‌ای‌پی‌آی: ورود موفق به سیستم"
       }
     },
     "ISSUE": {
@@ -1189,8 +1189,8 @@
     "DBX_GEN_TOKEN": "Dropbox: ایجاد نشانه ...",
     "DBX_META": "Dropbox: دریافت متا پرونده ...",
     "DBX_UPLOAD": "Dropbox: بارگذاری پرونده ...",
-    "GDRIVE_DOWNLOAD": "Google Drive: بارگیری فایل ...",
-    "GDRIVE_UPLOAD": "Google Drive: بارگذاری پرونده ...",
+    "GDRIVE_DOWNLOAD": "گوگل درایو: بارگیری فایل ...",
+    "GDRIVE_UPLOAD": "گوگل درایو: بارگذاری پرونده ...",
     "GITHUB_LOAD_ISSUE": "GitHub: بارگیری داده های شماره ...",
     "JIRA_LOAD_ISSUE": "جیرا: بارگیری داده های شماره ...",
     "UNKNOWN": "بارگیری داده های از راه دور",
